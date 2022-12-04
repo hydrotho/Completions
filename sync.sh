@@ -17,3 +17,4 @@ rm -rf "$TMPDIR"
 unset LSD
 unset TAG
 unset TMPDIR
+wget --no-verbose -O _rg https://raw.githubusercontent.com/BurntSushi/ripgrep/master/complete/_rg
