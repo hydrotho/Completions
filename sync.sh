@@ -18,3 +18,5 @@ unset LSD
 unset TAG
 unset TMPDIR
 wget --no-verbose -O _rg https://raw.githubusercontent.com/BurntSushi/ripgrep/master/complete/_rg
+
+echo -e "\e[1;32mSync success!\e[0m"
